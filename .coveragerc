@@ -1,0 +1,7 @@
+[run]
+source=authenticate/
+omit=
+  venv
+  */manage.py/*
+  */test/*
+  */__init__.py
